@@ -1,8 +1,8 @@
 
 
-# 🛍️ Full Stack E-commerce Web Application
+# E-commerce Site
 
-A full-stack **E-commerce application** using **Spring Boot** (Java) for the backend and **ReactJS with Vite** for the frontend. This application demonstrates the integration of RESTful APIs with a modern frontend stack, ideal for learning and demonstration purposes.
+A full-stack **E-commerce application** using **Spring Boot** (Java) for the backend and **ReactJS** for the frontend. This application demonstrates the integration of RESTful APIs with a modern frontend stack, ideal for learning and demonstration purposes.
 
 ---
 
@@ -11,7 +11,7 @@ A full-stack **E-commerce application** using **Spring Boot** (Java) for the bac
 ```
 SpringBoot-Reactjs-Ecommerce-main/
 ├── Ecommerce-Backend/       # Spring Boot REST API backend
-├── Ecommerce-Frontend/      # React + Vite frontend application
+├── Ecommerce-Frontend/      # React frontend application
 ```
 
 ---
@@ -77,12 +77,11 @@ Ecommerce-Backend/
 
 ---
 
-## 💻 Frontend - React + Vite
+## 💻 Frontend - React
 
 ### 🔧 Technologies Used
 
 * ReactJS
-* Vite (bundler)
 * Axios (API calls)
 * Bootstrap (UI)
 * JavaScript (ES6+)
@@ -97,8 +96,7 @@ Ecommerce-Frontend/
 │   ├── pages/           # Page-level components
 │   ├── App.jsx          # App layout
 │   └── main.jsx         # Entry point
-├── package.json
-└── vite.config.js
+└── package.json
 ```
 
 ### ▶️ Getting Started
